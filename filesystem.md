@@ -4,3 +4,6 @@
 	  console.error(err);
 	}
 	});
+
+# How to create symlinks
+	https://www.linode.com/docs/guides/linux-symlinks/
